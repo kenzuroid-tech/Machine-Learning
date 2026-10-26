@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+__pycache__/
+
+# Large Data Files
+*.csv
+Data Praktikum/*.csv
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
